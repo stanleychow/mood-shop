@@ -19,8 +19,15 @@ body{
     list-style: none;
 }
 
-.page-header {
+.page-header a{
     display: block;
     padding: 0.5em;
     text-decoration: none;
+}
+
+.page-header nav{
+    background-color: #555;
+    font-size: 20px;
+    font-family: 'Trebuchet MS';
+
 }
